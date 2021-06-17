@@ -1,5 +1,16 @@
+### Rightmoves search results
 
 ![Wireframe of search result](https://github.com/rightmove/graduate-assessment-test/blob/main/property-list-wireframes.png)
+
+
+### You can use: 
+```javascript
+// takes a single propery and renders it in the page
+displayProperty(property)
+    //... imagine this will render in the page / print out
+```
+
+### List 1
 
 ```javascript
 
@@ -77,10 +88,29 @@
 ]
 ```
 
+### List 2
+[
+   {
+      "title":"4 bedroom semi-detached house for sale",
+      "description":"Hamilton Terrace, London",
+      "imageSource":"http://www.rightmove.co.uk/hamiltonTerracePicture.png",
+      "price":100000,
+      "bedrooms":4
+   },
+   {
+      "title":"1 bedroom detached house for sale",
+      "description":"Princes Gate, London",
+      "imageSource":"http://www.rightmove.co.uk/princesGatePicture.png",
+      "price":200000,
+      "bedrooms":1
+   },
+   {
+      "title":"5 bedroom apartment house for sale",
+      "description":"Lenox Gardens, London",
+      "imageSource":"http://www.rightmove.co.uk/lenoxGardensPicture.png",
+      "price":150000,
+      "bedrooms":5
+   }
+]
 
-```javascript
-// takes a single propery and renders it in the page
-displayProperty(property)
-    //... imagine this will render in the page / print out
-```
 
