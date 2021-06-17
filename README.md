@@ -5,9 +5,9 @@
 
 ### You can use: 
 ```javascript
-// takes a single propery and renders it in the page
+// takes a single property and displays it on the page
 displayProperty(property)
-    //... imagine this will render in the page / print out
+    //... imagine this will display a property on the page
 ```
 
 ### List 1
