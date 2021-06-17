@@ -10,7 +10,7 @@ displayProperty(property)
     //... imagine this will display a property on the page
 ```
 
-### List 1
+### Property List
 
 ```javascript
 
@@ -88,7 +88,7 @@ displayProperty(property)
 ]
 ```
 
-### List 2
+### Premium Property List
 
 ```javascript
 [
