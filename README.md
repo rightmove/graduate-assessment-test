@@ -1,3 +1,8 @@
+
+![Wireframe of search result](https://github.com/rightmove/graduate-assessment-test/blob/main/property-list-wireframes.png)
+
+```javascript
+
 [
    {
       "title":"3 bedroom semi-detached house for sale",
@@ -70,3 +75,12 @@
       "bedrooms":5
    }
 ]
+```
+
+
+```javascript
+// takes a single propery and renders it in the page
+displayProperty(property)
+    //... imagine this will render in the page / print out
+```
+
