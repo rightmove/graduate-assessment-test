@@ -89,6 +89,8 @@ displayProperty(property)
 ```
 
 ### List 2
+
+```javascript
 [
    {
       "title":"4 bedroom semi-detached house for sale",
@@ -112,5 +114,6 @@ displayProperty(property)
       "bedrooms":5
    }
 ]
+```
 
 
