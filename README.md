@@ -5,15 +5,17 @@
 
 ### You can use: 
 ```javascript
-// takes a single property and displays it on the page
+// A constant with the list of properties (see below)
+const properties = [...]
+
+// Takes a single property and displays it on the page
 displayProperty(property)
-    //... imagine this will display a property on the page
+    //...
 ```
 
 ### Property List
 
-```javascript
-
+```javascrip
 [
    {
       "title":"3 bedroom semi-detached house for sale",
@@ -89,6 +91,10 @@ displayProperty(property)
 ```
 
 ### Premium Property List
+````javascript
+const premiumProperties = [...] // A constant with the list of premium properties (see below)
+````
+
 
 ```javascript
 [
